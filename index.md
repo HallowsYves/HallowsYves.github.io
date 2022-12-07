@@ -13,8 +13,11 @@ Near the end of the semester, we worked with images and this lab had to be one o
 
 ![Gradient image from lab 10](images/gradient.png)
 
-## Lab 8
+## Lab 08
 Another lab that I enjoyed was learning how to use loops and characters in order to display animations to the console. In this lab we worked with the chono_literals libray to help verify arguments inserted into the console and to open and display them. 
 
 Below is an example of a finished animation
 ![](images/animation.png)
+
+## Lab 05
+![Black Jack](https://i.imgur.com/IqRd2N2.gif)
