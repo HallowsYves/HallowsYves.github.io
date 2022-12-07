@@ -21,4 +21,5 @@ Below is an example of a finished animation
 
 ## Lab 05
 ![Black Jack](https://giffiles.alphacoders.com/143/143128.gif)
+
 Testing our luck, in this lab we recreated the famous game named BlackJack commonly known as 21 using C++. Though it may not seem like much, what made me proud of this lab was the fact that I was able to recongize a pattern within what we were doing and I wanted to make the code more effiecent by creating a loop to do the work that I would of previously had to do by hand. 
