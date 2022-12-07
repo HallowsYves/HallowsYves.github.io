@@ -24,4 +24,4 @@ Below is an example of a finished animation
 
 Testing our luck, in this lab we recreated the famous game named BlackJack commonly known as 21 using C++. Though it may not seem like much, what made me proud of this lab was the fact that I was able to recongize a pattern within what we were doing and I wanted to make the code more effiecent by creating a loop to do the work that I would of previously had to do by hand. Below you can see that I created a loop that would look at the index of the arguments in order to identify weather if it were an Ace, King, Queen, Jack, or Jocker card.
 
-![Black Jack](image/Black_jack.png)
+![uhh](images/Black_jack%20example.png)
