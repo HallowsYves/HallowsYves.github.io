@@ -3,6 +3,10 @@ My name is Yves Velasquez and I am a student at [Cal State Fullerton](http://www
 and my major is computer science!
 
 ## Computer Science Projects
-Here are a couple of my computer science projects! You can find them here on my github page (https://github.com/HallowsYves)
+Here are a couple of my computer science projects! You can find them here on my github page https://github.com/HallowsYves
 
 ## CPSC 120
+Below are three of my favorite labs I have done this semster!
+
+* Lab 10
+Near the end of the semester, we worked with images and this lab had to be one of my favorites. In particular Lab 10 part 3 was my favorite as we ended up creating a colored square though the GraphicsMagick libray.
